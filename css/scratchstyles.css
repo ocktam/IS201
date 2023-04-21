@@ -1,0 +1,50 @@
+p{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.emphasizedText{
+    font-style:italic;
+    color:rgb(4, 19, 24);
+    font-size: 40px;
+}
+
+
+ol{
+    list-style-position:inside;
+    border: 10px solid azure;
+    
+    padding: 80px;
+   
+    text-align: left;
+}
+
+
+
+.common{
+    text-align: center;
+    background-color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;  
+}
+
+.header{
+    border: 10px solid grey;
+    padding: 50px;
+    height: 100px;
+    background-color:azure;
+    font-size:20px;
+}
+
+.mainbody{
+    background-color:whitesmoke;
+    padding: 80px;
+    
+    
+}
+
+.footer{
+    background-color:azure;
+    padding: 30px;
+}
+
